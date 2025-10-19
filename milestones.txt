@@ -1,2 +1,3 @@
 # Work Log
 Previous version bump that caused CI failure
+Improve visual design of error state messages
