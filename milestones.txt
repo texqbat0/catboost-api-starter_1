@@ -1,3 +1,4 @@
 # Work Log
 Previous version bump that caused CI failure
 Improve visual design of error state messages
+Write a summary of key architectural decisions made in Q4
